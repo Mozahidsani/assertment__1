@@ -1,0 +1,305 @@
+.left-site{
+ margin-left: 40px; 
+ margin-top: 60px;  
+}
+
+
+
+h1{
+
+font-size: 50px;
+margin-left: 10px;
+}
+
+.mission{
+
+font-size: 40px;
+color: rgb(238, 157, 8);
+
+}
+
+.mota{
+border-left: 3px solid black;
+
+}
+
+.ptag{
+    font-size: 20px;
+}
+
+
+
+.border_orange p{
+width: 200px;
+font-size: 30px;
+background-color:orangered;  
+padding: 10px;
+border-radius: 8px;
+}
+
+
+
+.tosite{
+
+display: flex;
+background-image: url("imgadd/20220106_131515.jpg");
+}
+ .left-site{
+
+width: 50%;
+
+ }
+
+
+ .right-site{
+
+    width: 50%;
+    margin-top: 60px;  
+     }
+
+
+
+.mozaimge{
+
+width: 90%;
+
+}
+
+.mymission{
+
+font-size: 50px;
+margin-top: 40px;
+text-align: center;
+}
+
+.mission2{
+
+ font-size: 50px; 
+ color: rgb(238, 157, 8);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sectiocthreesite{
+   
+    width: 100%;
+    margin: auto;
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  .mission1{
+    width: 300px;
+    /* border: 1px solid gray; */
+  
+  
+    border-radius: 25px;
+  
+    background-color: rgb(172, 169, 158);
+  }
+
+.sania{
+
+background-color: rgb(211, 162, 145);
+
+
+}
+
+
+
+
+  .photo img {
+    width: 100%;
+  
+  }
+  .second-section {
+    padding: 10px;
+  }
+
+  .paramission{
+
+  text-align: justify;  
+  }
+.mozacolor{
+
+background-color: rgb(196, 165, 165);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  .fullsitek{
+background-color:;
+    display: flex;
+margin-top: 50px;
+  }
+
+  .left-section3{
+
+
+    width: 50%;
+
+  }
+
+  .right-section3{
+
+    width: 50%;
+
+  }
+
+
+  .mozaimgesection3{
+
+    width: 90%;
+border: 1px solid black;
+border-radius: 30px;
+
+  }
+
+
+  .border_red{
+width: 300px;
+background-color:orangered;
+padding:1px;
+margin-top: 10px;
+border-radius: 5px;
+text-align: center;
+  }
+
+
+  .mozahidstle{
+font-size: 50px;
+font-weight: bold;
+  }
+
+
+.mozanew{
+
+margin-left: 40px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+  .fottertitle{
+
+font-size: 30px;
+text-align: center;
+margin-top: 10px;
+  }
+
+  .salmission{
+
+  color: rgb(243, 9, 9);  
+  }
+
+  footer{
+background-color: rgb(24, 23, 22);
+padding: 30px;
+
+  }
+
+  .mozamission{
+color:cornsilk;
+
+
+  }
+
+  .lastleka{
+color: cornsilk;
+font-size: 20px;
+
+  }
+
+  .mozafooter{
+margin-top: 20px; 
+  }
+
