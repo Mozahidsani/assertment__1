@@ -35,6 +35,7 @@ font-size: 30px;
 background-color:orangered;  
 padding: 10px;
 border-radius: 8px;
+text-align: center;
 }
 
 
@@ -261,11 +262,39 @@ margin-left: 40px;
 
 
 
+.section5{
+
+margin-top: 10px;
+background-color: rgb(112, 102, 102);
+padding:40px;
+border: 2px solid black;
+box-shadow: 10px;
+
+}
+
+
+.hievery{
+text-align: center;
+font-size: 40px;
+
+}
 
 
 
+.mozabox{
+
+text-align: center;
+font-size: 30px;
 
 
+
+}
+
+.mozahiAryan{
+
+color: black;
+
+}
 
 
 
